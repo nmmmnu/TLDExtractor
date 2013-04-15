@@ -100,6 +100,7 @@ if __name__ == '__main__':
 	urls = [
 		"www.niki.miki.bg"	,
 		"www.niki.1.bg"		,
+		"www.niki.jp"	,
 		"www.niki.co.jp"	,
 		"www.niki.co.kr"	,
 		"www.niki.com.pr"	,
@@ -111,10 +112,11 @@ if __name__ == '__main__':
 		"musedoma.museum"	,
 		"niki.museum"		,
 		"www.niki.national.museum"	,
+		"www.niki.AT"		,
+		"www.niki.CO.AT"	,
 
 		"www.niki.uk"		,
 		"www.niki.pr"		,
-		"www.niki.AT"		,
 		"www.nonexistent.hello"	,
 		""			,
 		"com"			,
